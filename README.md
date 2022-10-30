@@ -1,1 +1,3 @@
 # SimpleLatexRender
+
+借助wkhtmltox实现渲染网页，后续借助katex实现在线渲染html页面。

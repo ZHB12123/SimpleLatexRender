@@ -1,0 +1,9 @@
+wkhtmltopdf/
+/cmake-build-debug
+/.idea
+
+*.jpg
+*.png
+*.gif
+*.zip
+*.log
